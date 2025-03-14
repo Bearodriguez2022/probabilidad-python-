@@ -1,4 +1,4 @@
-# Probabilidad
+## Probabilidad
 
 
 Probabilidad: es la medida numérica de la posibilidad de que ocurra algo. Los valores de probabilidad están en la escala del 0 al 1. P(A)= Nºcasos favorables/ Nº casos posibles
@@ -70,13 +70,17 @@ La elección del método dependerá de la disponibilidad de datos, la complejida
 
 ### Corrientes de Probabilidad:
 Corriente clásica: La probabilidad de un evento que se está llevando a cabo se calcula dividiendo el número de resultados favorables por el número de resultados posibles".
+
 Corriente Frecuentista: Se asigna un valor de probabilidad a un evento, a partir del cual se considera que ocurrirá en la frecuencia relativa con la cual se obtendría el evento, para esto el experimento se repite una gran cantidad de veces.
+
 Corriente Subjetivista (análisis de decisiones): se asigna probabilidad basada en conocimientos y experiencia que el científico tenga sobre el experimento.
+
 Corriente Bayesiana: conocimiento de la ocurrencia de evento, la información obtenida influye en la asignación de probabilidad.
 
-Diferencia entre Estadística y Probabilidad
+## Diferencia entre Estadística y Probabilidad
+
 Estadística estudio de datos para analizarlos e intentar obtener conclusiones sobre fenómenos que ocurren de forma aleatoria. Utiliza MÉTODO DEDICTIVO para formular leyes o hipótesis basadas en observación.
-Probabilidad mide la frecuencia que se consigue un resultado determinado en un fenómeno aleatorio que depende del azar. hace uso del MÉTODO DEDUCTIVO para intentar establecer patrones que permitan determinar qué es lo que va ocurrir en condiciones estables, dentro de todos los resultados posibles
+Probabilidad mide la frecuencia que se consigue un resultado determinado en un fenómeno aleatorio que depende del azar. Hace uso del MÉTODO DEDUCTIVO para intentar establecer patrones que permitan determinar qué es lo que va ocurrir en condiciones estables, dentro de todos los resultados posibles
 
 Problemas https://www.youtube.com/watch?v=FBRAWqFgPqc&list=PL3KGq8pH1bFQ5ZdTbz7DRXMDWv_wFvE1K&index=2
 
