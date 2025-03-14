@@ -2,6 +2,22 @@
 
 
 Probabilidad: es la medida numérica de la posibilidad de que ocurra algo. Los valores de probabilidad están en la escala del 0 al 1. P(A)= Nºcasos favorables/ Nº casos posibles
+
+* Probabilidad de que salga cara
+1 caso favorable, 2 sacos posibles 1/2
+Probabilidad es de 50%
+
+* Lanzamiento de dos monedas:
+¿Cuál es la probabilidad de obtener dos caras?
+Espacio muestral: {cara-cara, cara-cruz, cruz-cara, cruz-cruz}
+Casos favorables: 1 (cara-cara)
+Casos posibles: 4
+* Probabilidad: 1/4 o 25%
+¿Cuál es la probabilidad de obtener al menos una cara?
+Casos favorables: {cara-cara, cara-cruz, cruz-cara}
+Casos posibles: 4
+Probabilidad: 3/4 o 75%
+
 Teorías de la Probabilidad:
 
 ### Determinismo:
